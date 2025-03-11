@@ -1,4 +1,4 @@
-package com.fooders.employeemanager;
+package com.fooders.employeemanager.resource;
 
 import com.fooders.employeemanager.model.Employee;
 import com.fooders.employeemanager.service.EmployeeService;
